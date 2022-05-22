@@ -1,6 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
 
+
 * {
 	box-sizing: border-box;
 }
@@ -177,6 +178,7 @@ input {
 
 .container.right-panel-active .overlay {
   	transform: translateX(50%);
+	display:;
 }
 
 .overlay-panel {
